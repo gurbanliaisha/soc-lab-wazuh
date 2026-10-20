@@ -1,0 +1,7 @@
+.env
+*.pem
+*.key
+*.crt
+*password*
+*secret*
+wazuh_indexer_ssl_certs/
